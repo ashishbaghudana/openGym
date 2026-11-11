@@ -42,7 +42,7 @@ export const REVIEW_SCHEMA = {
     },
     notes: STRINGS
   },
-  required: ['coach_contract']
+  required: ['coach_contract', 'changes']
 };
 
 const EX_SCHEMA = {
